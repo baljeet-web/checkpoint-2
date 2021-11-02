@@ -62,7 +62,7 @@ table {
 
 header{
     width: 100%;
-    background-image: url(/assets/media/banner.jpg);
+    background-image: url(assets/media/banner.jpg);
     height: 300px;
 }
 
